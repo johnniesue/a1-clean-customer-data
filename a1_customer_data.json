@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Jade",
+        "phone": "(361)-402-9983",
+        "email": "",
+        "address": "3921 Braxton Ln",
+        "city": "Flower Mound",
+        "state": "TX",
+        "zip": "",
+        "last_service_date": "",
+        "service_notes": "Leaking toilet base, needs extra seal. Drip hose also cut open.",
+        "source": "Texas Elite"
+    },
+    {
+        "name": "Saba",
+        "phone": "(713)-301-3082",
+        "email": "",
+        "address": "5637 Gleneagles Dr",
+        "city": "Plano",
+        "state": "TX",
+        "zip": "",
+        "last_service_date": "",
+        "service_notes": "Primary and secondary sinks clogged. Low hot water pressure. Gate code required.",
+        "source": "Texas Elite"
+    },
+    {
+        "name": "Mahrukh",
+        "phone": "",
+        "email": "",
+        "address": "",
+        "city": "",
+        "state": "TX",
+        "zip": "",
+        "last_service_date": "",
+        "service_notes": "Appointment needs to be rescheduled to Friday.",
+        "source": "Direct"
+    }
+]
